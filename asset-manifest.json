@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5921b112.chunk.css",
+    "main.js": "./static/js/main.e9f30e83.chunk.js",
+    "main.js.map": "./static/js/main.e9f30e83.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.f3ec70be.js",
+    "runtime-main.js.map": "./static/js/runtime-main.f3ec70be.js.map",
+    "static/js/2.3f3d83d3.chunk.js": "./static/js/2.3f3d83d3.chunk.js",
+    "static/js/2.3f3d83d3.chunk.js.map": "./static/js/2.3f3d83d3.chunk.js.map",
+    "static/js/3.a0f1dccf.chunk.js": "./static/js/3.a0f1dccf.chunk.js",
+    "static/js/3.a0f1dccf.chunk.js.map": "./static/js/3.a0f1dccf.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.5921b112.chunk.css.map": "./static/css/main.5921b112.chunk.css.map",
+    "static/js/2.3f3d83d3.chunk.js.LICENSE.txt": "./static/js/2.3f3d83d3.chunk.js.LICENSE.txt",
+    "static/media/21skins-logo.webp": "./static/media/21skins-logo.dc4a1bb1.webp",
+    "static/media/style.css": "./static/media/icomoon.e34a163a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3ec70be.js",
+    "static/js/2.3f3d83d3.chunk.js",
+    "static/css/main.5921b112.chunk.css",
+    "static/js/main.e9f30e83.chunk.js"
+  ]
+}
